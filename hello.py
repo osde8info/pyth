@@ -19,3 +19,4 @@ d = datetime.now()
 e = 'Time %s' % d
 
 print(e)
+print(e)
