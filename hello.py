@@ -16,6 +16,6 @@ print(f'Hello, My name is {name} and I"m {age} years old.')
 
 d = datetime.now()
 
-e = 'My Is %s' % d
+e = 'Time %s' % d
 
 print(e)
